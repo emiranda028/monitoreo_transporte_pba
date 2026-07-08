@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // descomentá la línea de "base" y poné el nombre exacto de tu repositorio.
 export default defineConfig({
   plugins: [react()],
-  // base: "/nombre-del-repo/",
+  base: "/monitoreo_transporte_pba/",
 });
